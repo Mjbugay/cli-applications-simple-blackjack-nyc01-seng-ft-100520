@@ -60,6 +60,7 @@ end
 
 def runner
   welcome
+  user_hand = initial_round
   
  
 end
