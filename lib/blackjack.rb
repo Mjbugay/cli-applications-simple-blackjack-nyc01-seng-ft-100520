@@ -30,12 +30,13 @@ def initial_round
   sum
 end
 
-def hit?
-  # code hit? here
+def hit?(current_card_total)
+  
 end
 
 def invalid_command
-  # code invalid_command here
+  
+
 end
 
 #####################################################
