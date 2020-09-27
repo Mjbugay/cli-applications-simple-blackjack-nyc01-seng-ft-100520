@@ -49,10 +49,6 @@ def hit?(user_hand)
   end
   user_hand
 end
-    
-    
-  
-end
 
 def invalid_command
   
