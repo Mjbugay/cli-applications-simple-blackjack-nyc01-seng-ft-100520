@@ -50,9 +50,9 @@ def hit?(user_hand)
   user_hand
 end
 
-def invalid_command
-  
-
+def 
+  puts "Please enter a valid command."
+  prompt_user
 end
 
 #####################################################
