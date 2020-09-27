@@ -59,7 +59,7 @@ end
 #####################################################
 
 def runner
- welcome
+  welcome
   user_hand = initial_round
   card_total = user_hand
 
