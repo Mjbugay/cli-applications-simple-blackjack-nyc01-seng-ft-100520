@@ -44,6 +44,12 @@ def hit?(user_hand)
     new_card = deal_card
     user_hand += new_card
     
+    elsif user_input == 's'
+    user_hand
+  end
+  user_hand
+end
+    
     
   
 end
