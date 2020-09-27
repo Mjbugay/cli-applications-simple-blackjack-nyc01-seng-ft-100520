@@ -42,7 +42,7 @@ def hit?(user_hand)
   
   if user_input == 'h'
     new_card = deal_card
-    
+    user_hand += new_card
     
     
   
